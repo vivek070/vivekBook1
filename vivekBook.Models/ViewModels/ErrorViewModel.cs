@@ -1,6 +1,6 @@
 using System;
 
-namespace vivekBook.Models
+namespace vivekBook.Models.ViewModels
 {
     public class ErrorViewModel
     {
